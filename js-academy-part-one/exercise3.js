@@ -45,6 +45,8 @@ function convertRomanToArabic(romanNumeral) {
 
     prevVal = currentVal;
   }
+
+  return result;
 }
 
 export default convertRomanToArabic;

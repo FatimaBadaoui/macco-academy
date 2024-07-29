@@ -1,4 +1,4 @@
-import killCreatures from "../exercise1";
+import killCreatures from "./../exercise1";
 
 describe("Exercise 1: Kill Creatures", () => {
   test("Kills all creatures with sufficient arrows", () => {
